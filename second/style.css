@@ -1,0 +1,38 @@
+body {
+	margin: 0;
+	background-color: #ccc;
+}
+.container {
+	margin: 0 auto;
+	width: 1020px;
+	background-color: #eee;
+}
+.col {
+	height: 800px;
+	width: 33.33%;
+	float: left;
+}
+.col1 {
+	background-color: #4a90e0;
+}
+.col2 {
+	background-color: #52e3c1;
+}
+.col3 {
+	background-color: #b9e887;
+}
+.img {
+	height: 200px;
+	width: 33.33%;
+	text-align: center;
+	background-color: #cf021a;
+	float: right;
+	margin-top: -200px;
+	color: #fff;
+}
+.img p {
+	line-height: 200px;
+	font-size: 30px;
+	margin: 0;
+	font-family: arial;
+}
